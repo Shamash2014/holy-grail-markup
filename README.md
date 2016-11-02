@@ -1,7 +1,6 @@
-# "[Holy Grail Layout](https://en.wikipedia.org/wiki/Holy_Grail_(web_design))" in different CSS methodologies
+# Сomparison OOCSS, SMACSS, Atomic and BEM markup
 
-Simple examples of all popular css methodologies markup.
-One page, different code:
+We wrote simple html page with "[Holy Grail Layout](https://en.wikipedia.org/wiki/Holy_Grail_(web_design))" in different CSS methodologies as examples of all popular css methodologies markup.
 
 ![HolyGrailLayout](https://github.com/AleshaOleg/holy-grail-markup/blob/master/preview.png)
 
